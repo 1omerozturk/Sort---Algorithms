@@ -1,0 +1,18 @@
+[22,27,16,2,18,6] -> Insertion Sort: 
+
+Insertion Sort Big O notation is Big-O(n*n)
+
+step-1: 22 <-> 2 changed;
+    [2,27,16,22,18,6] 
+
+step-2: 27 <-> 6 changed;
+    [2,6,16,22,18,27]
+
+step-3: 16 not changed;
+    [2,6,16,22,18,27]
+
+step-4: 22 <-> 18 changed;
+    [2,6,16,18,22,27]
+
+ After the array sorted, we find 18 number is 
+average case Time complexity. 
