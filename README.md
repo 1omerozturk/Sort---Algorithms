@@ -5,5 +5,7 @@
 <li>Insertion Sort</li>
 <li>Bubble Sort</li>
 <li>Selection Sort</li>
+<li>Binary Search Tree</li>
+<li>Merge Sort</li>
 </ul>
 </p>
